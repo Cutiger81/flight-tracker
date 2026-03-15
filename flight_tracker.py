@@ -4,10 +4,10 @@ import json
 import os
 from email.mime.text import MIMEText
 
-API_KEY = "YOUR_SERPAPI_KEY"  # ← replace
+API_KEY = "jR4SkGo6zPgJ6QFiVEwsZuTw"  # ← replace
 
 EMAIL_FROM = "j.caseygavin@gmail.com"  # ← replace
-EMAIL_PASSWORD = "your_app_password"  # ← replace
+EMAIL_PASSWORD = "xyom ovap hict dlml"  # ← replace
 EMAIL_TO = "jgavin269@hotmail.com"
 
 departures = ["TYS"]
