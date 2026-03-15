@@ -10,7 +10,7 @@ EMAIL_FROM = "j.caseygavin@gmail.com"
 EMAIL_PASSWORD = "xyom ovap hict dlml"
 EMAIL_TO = "jgavin269@hotmail.com"
 
-departures = ["ATL","TYS","CHA","CLT","BNA"]
+departures = ["TYS"]
 arrivals = ["ORD","MDW"]
 
 OUT_DATE = "2026-06-05"
